@@ -2,11 +2,10 @@
 
 # Raj Kumar Arora
 
-## Associate Architect | Senior Full Stack Engineer
-      .NET | Azure | Angular | Microservices
+## Associate Architect | Lead Full Stack Engineer
+### .NET | Azure | Cloud Architecture | AI Engineering | Secure Enterprise Applications
 
-Building secure, scalable enterprise applications using
-.NET, Azure, Angular, Cloud-Native Architecture & AI.
+Building scalable, secure, and cloud-ready enterprise solutions with modern .NET technologies, Azure, microservices, and AI-powered engineering practices.
 
 -------------------------------------------------------
 
@@ -98,7 +97,7 @@ I enjoy solving problems around:
 
 ## 🤝 Connect
 
-LinkedIn: <your LinkedIn>
-GitHub: Raj-Kumar-Arora
+LinkedIn: Raj Kumar Arora [https://www.linkedin.com/in/RajKumarArora/]
+GitHub: Raj-Kumar-Arora [https://github.com/Raj-Kumar-Arora]
 
 -------------------------------------------------------
