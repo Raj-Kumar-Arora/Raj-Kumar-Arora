@@ -1,5 +1,3 @@
-"# Raj-Kumar-Arora" 
-
 # Raj Kumar Arora
 
 ## Associate Architect | Senior Full Stack Engineer
