@@ -96,6 +96,7 @@ I enjoy solving problems around:
 ## 🤝 Connect
 
 LinkedIn: Raj Kumar Arora [https://www.linkedin.com/in/RajKumarArora/]
+
 GitHub: Raj-Kumar-Arora [https://github.com/Raj-Kumar-Arora]
 
 -------------------------------------------------------
