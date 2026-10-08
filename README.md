@@ -1,6 +1,6 @@
 # Raj Kumar Arora
 
-## Associate Architect | Senior Full Stack Engineer
+## Software Architect | Senior Full Stack Engineer
 ### .NET | Azure | Cloud Architecture | AI Engineering | Secure Enterprise Applications
 
 Building scalable, secure, and cloud-ready enterprise solutions with modern .NET technologies, Azure, microservices, and AI-powered engineering practices.
