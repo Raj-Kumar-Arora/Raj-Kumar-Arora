@@ -1,102 +1,58 @@
 # Raj Kumar Arora
 
-## Software Architect | Senior Full Stack Engineer
-### .NET | Azure | Cloud Architecture | AI Engineering | Secure Enterprise Applications
+## Senior / Principal Software Engineer | .NET & Azure Cloud Specialist
+### .NET 10 • Azure Cloud Architecture • Microservices • Identity Security (IAM) • DevSecOps
 
-Building scalable, secure, and cloud-ready enterprise solutions with modern .NET technologies, Azure, microservices, and AI-powered engineering practices.
+Building highly scalable, secure, and cloud-native enterprise solutions with modern .NET technologies, cloud architectures, and automated engineering practices.
 
--------------------------------------------------------
+---
 
-I am a Senior Software Engineer / Associate Architect with 20 years of experience designing and delivering enterprise applications across banking, insurance, energy and IoT domains.
+### 👤 Profile
+I am an accomplished Senior / Principal Software Engineer and Distributed Systems Specialist with a comprehensive track record of designing, scaling, and modernizing secure enterprise platforms in highly regulated domains (Banking, Insurance, Energy, and IoT). 
 
-Currently working with HCL Technologies Poland, delivering solutions for European enterprise clients including Achmea Netherlands and Euroclear Bank Belgium.
+* **Active Engagement:** Currently deployed via HCL Technologies Poland as a Project Lead and Associate Architect for major European enterprise clients, including **Achmea Netherlands** and **Euroclear Bank Belgium**.
+* **Core Competence:** Expert in transforming legacy monolithic applications into highly resilient, event-driven microservices while maintaining a high-velocity, hands-on production output.
 
-My expertise includes:
-- Enterprise .NET development
-- Cloud-native Azure solutions
-- Microservices architecture
-- Secure API development
-- IAM & Authentication
-- System Design & Distributed Systems
+---
 
--------------------------------------------------------
+## 🛠️ Technical Expertise
 
-## 🛠 Technical Expertise
+* **Backend Engineering:** C# • .NET 10 • ASP.NET Core • REST APIs • GraphQL • CQRS • MediatR • LINQ • C++
+* **Frontend Ecosystem:** React • Angular 18 • TypeScript • JavaScript • Blazor • WPF • WinForms
+* **Cloud & DevOps Architecture:** Azure PaaS (App Services, Functions, Key Vault, API Management) • Docker • Kubernetes • Terraform (IaC) • GitHub Actions • CI/CD
+* **Identity & Access Management (IAM):** OAuth 2.0 • OpenID Connect • JWT • SAML • Single Sign-On (SSO) • Role-Based Access Control (RBAC) • DevSecOps (SAST/DAST)
+* **Data, Messaging & Observability:** SQL Server • PostgreSQL • MongoDB • Redis Caching • Kafka • RabbitMQ • OpenTelemetry • Serilog • ELK Stack • Polly Policies
 
-### Backend
-.NET 10 | ASP.NET Core | C# | Web API | Python | Node.js
+---
 
-### Frontend
-Angular | TypeScript | JavaScript | React
+## 🚀 Featured Production Blueprints
 
-### Cloud & DevOps
-Azure | Azure Functions | App Services | API Management
-Docker | Kubernetes | Terraform | GitHub Actions
+### 🤖 FullStack Gen AI Automation Platform
+*`.NET 10 • Angular 18 • OpenAI Orchestration`*
+An enterprise-tier processing architecture designed to ingest unstructured multi-channel inputs (Audio, Video, Chat transcripts) and automatically transform them into structured corporate business workflows.
+* Demonstrates serverless background ingestion queues and asynchronous data pipelines.
+* Features fine-grained prompt token monitoring and strict data exposure filters to prevent corporate compliance risks.
 
-### Architecture
-Microservices | Distributed Systems
-HLD | LLD | SOLID | Clean Architecture
-Design Patterns | DDD
+### 🔐 Secure Distributed API Authentication Framework
+*`ASP.NET Core Web API • Zero-Trust IAM Topology`*
+A secure, reusable reference architecture built to harden distributed microservices against critical OWASP top-10 vulnerabilities in banking and insurance sectors.
+* Enforces centralized OAuth 2.0 validation pipelines and encrypted JWT payload distribution.
+* Implements multi-tier Role-Based Access Control (RBAC) and automated Cross-Site Request Forgery (CSRF) mitigation filters.
 
-### Security
-OAuth 2.0 | OpenID Connect
-JWT | SAML | SSO
-RBAC | IAM | API Security
+---
 
--------------------------------------------------------
+## 🏗️ Core Engineering Focus
 
-## 🚀 Featured Projects
+I specialize in designing and engineering high-impact solutions around:
+* **System Scalability:** Architectural pattern design including CQRS, event-driven data streaming, and domain-driven design (DDD).
+* **Legacy Transformation:** Safely decomposing monolithic systems into cloud-native microservices using defensive engineering paradigms (Strangler Pattern).
+* **Performance Tuning:** Advanced relational query optimization, distributed multi-tier caching matrices, and connection pool stabilization under high load.
 
-### 🤖 FullStack Gen AI Application
-.NET Core + Angular + OpenAI
+---
 
-Enterprise-style AI application demonstrating:
-- LLM integration
-- Prompt engineering
-- REST API architecture
-- Angular frontend
-- Cloud-ready design
+## 🤝 Connect & Relocate
 
-
-### 🔐 Secure API Authentication Framework
-
-ASP.NET Core Web API Security
-
-Implementation of:
-- OAuth 2.0
-- JWT Authentication
-- Role Based Authorization
-- Secure API Design
-
--------------------------------------------------------
-
-## 🏗 Engineering Focus
-
-I enjoy solving problems around:
-
-✓ Designing scalable distributed systems
-✓ Building secure enterprise APIs
-✓ Cloud modernization
-✓ Legacy application transformation
-✓ AI-assisted software engineering
-✓ Performance optimization
-
--------------------------------------------------------
-
-## 📚 Currently Exploring
-
-- Azure Solutions Architecture
-- Cloud Native Development
-- System Design
-- Distributed Systems
-- Generative AI Engineering
-
--------------------------------------------------------
-
-## 🤝 Connect
-
-LinkedIn: Raj Kumar Arora [https://www.linkedin.com/in/RajKumarArora/]
-
-GitHub: Raj-Kumar-Arora [https://github.com/Raj-Kumar-Arora]
-
--------------------------------------------------------
+* **Current Location:** Krakow, Poland *(EU Blue Card Holder • Eligible for Fast-Track Intra-EU Visa Transfer)*
+* **Target Destination:** Netherlands (Amsterdam / Utrecht / Rotterdam area • Open to Hybrid/On-site setups)
+* **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/RajKumarArora/)
+* **Code Portfolio:** [Explore my Repositories](https://github.com/Raj-Kumar-Arora)
