@@ -1,6 +1,6 @@
 # Raj Kumar Arora
 
-## Senior / Principal Software Engineer | .NET & Azure Cloud Specialist
+## Software Architect / Senior Software Engineer | .NET & Azure Cloud Specialist
 ### .NET 10 • Azure Cloud Architecture • Microservices • Identity Security (IAM) • DevSecOps
 
 Building highly scalable, secure, and cloud-native enterprise solutions with modern .NET technologies, cloud architectures, and automated engineering practices.
