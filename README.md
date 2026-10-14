@@ -44,9 +44,13 @@ A secure, reusable reference architecture built to harden distributed microservi
 ## 🏗️ Core Engineering Focus
 
 I specialize in designing and engineering high-impact solutions around:
-* **System Scalability:** Architectural pattern design including CQRS, event-driven data streaming, and domain-driven design (DDD).
+* **System Scalability:**
+   - Architectural pattern design including CQRS, event-driven data streaming, and domain-driven design (DDD).
+   - Advanced state caching matrices leveraging .NET 10 HybridCache to enforce request coalescing and isolate against cache stampedes.
 * **Legacy Transformation:** Safely decomposing monolithic systems into cloud-native microservices using defensive engineering paradigms (Strangler Pattern).
-* **Performance Tuning:** Advanced relational query optimization, distributed multi-tier caching matrices, and connection pool stabilization under high load.
+* **Performance Tuning:**
+   - Advanced relational query optimization, distributed multi-tier caching matrices, and connection pool stabilization under high load.
+   - Multi-node data consistency design using distributed locks (Redlock) to isolate multi-threaded runtime race conditions.
 
 ---
 
