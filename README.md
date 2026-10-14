@@ -17,16 +17,15 @@ I am an accomplished Senior / Principal Software Engineer and Distributed System
 
 ## 🛠️ Technical Expertise
 
- **Backend Engineering:** C# • .NET 10 • ASP.NET Core • REST APIs • GraphQL • CQRS • MediatR • LINQ • C++* 
+ **Backend Engineering:** C# • .NET 10 • ASP.NET Core • REST APIs • GraphQL • CQRS • MediatR • LINQ • C++ 
  
- **Frontend Ecosystem:** React • Angular 18 • TypeScript • JavaScript • Blazor • WPF • WinForms* 
+ **Frontend Ecosystem:** React • Angular 18 • TypeScript • JavaScript • Blazor • WPF • WinForms
  
- **Cloud & DevOps Architecture:** Azure PaaS (App Services, Functions, Key Vault, API Management) • Docker • Kubernetes • Terraform (IaC) • GitHub Actions • CI/CD* 
+ **Cloud & DevOps Architecture:** Azure PaaS (App Services, Functions, Key Vault, API Management) • Docker • Kubernetes • Terraform (IaC) • GitHub Actions • CI/CD
  
- **Identity & Access Management (IAM):** OAuth 2.0 • OpenID Connect • JWT • SAML • Single Sign-On (SSO) • Role-Based Access Control (RBAC) • DevSecOps (SAST/DAST)* 
+ **Identity & Access Management (IAM):** OAuth 2.0 • OpenID Connect • JWT • SAML • Single Sign-On (SSO) • Role-Based Access Control (RBAC) • DevSecOps (SAST/DAST) 
  
  **Data, Messaging & Observability:** SQL Server • PostgreSQL • MongoDB • Redis Caching • Kafka • RabbitMQ • OpenTelemetry • Serilog • ELK Stack • Polly Policies
- ---
 
 ---
 
